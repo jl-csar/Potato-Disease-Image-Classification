@@ -1,5 +1,5 @@
 # Potato-Disease-Image-Classification
 
-this is not how we properly write README.md files, but please forgive it.
+This is a code along with [Deep learning project end to end](https://www.youtube.com/watch?v=dGtDTjYs3xc&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&index=50)
 
-This is a simple image classification task. Dataset is not mine; I got it from Kaggle: https://www.kaggle.com/datasets/arjuntejaswi/plant-village/data
+The dataset is from Kaggle: [Plant Village](https://www.kaggle.com/datasets/arjuntejaswi/plant-village/data)
